@@ -91,7 +91,7 @@ const Header = () => {
 					<li
 						className="menuItem"
 						onClick={() => {
-							navigationHandler("movie");
+							navigationHandler("tv");
 						}}>
 						TV Shows
 					</li>
